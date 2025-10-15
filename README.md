@@ -11,7 +11,7 @@
 
 It’s built for **DevSecOps** teams who want a fast, lightweight, and CI/CD-friendly security scanner for Python projects.
 
----
+------
 
 ## 🛠 Tech & Languages
 
