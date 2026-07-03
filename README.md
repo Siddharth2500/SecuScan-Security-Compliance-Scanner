@@ -1,4 +1,4 @@
-# 🛡️ SecuScan  Security & Compliance Scanner
+# 🛡️ SecuScan - Security & Compliance Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Scanner-FF5252?logo=shield)
@@ -11,7 +11,7 @@
 
 It’s built for **DevSecOps** teams who want a fast, lightweight, and CI/CD-friendly security scanner for Python projects.
 
-------
+-------
 
 ## 🛠 Tech & Languages
 
