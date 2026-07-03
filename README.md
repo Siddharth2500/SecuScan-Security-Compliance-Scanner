@@ -1,4 +1,4 @@
-# 🛡️ SecuScan — Security & Compliance Scanner
+# 🛡️ SecuScan  Security & Compliance Scanner
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Scanner-FF5252?logo=shield)
