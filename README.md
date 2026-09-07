@@ -39,7 +39,7 @@ Flow:
 4. Produces a **JSON security report**  
 5. Exits cleanly for use in **CI/CD gates**
 
---------
+----------
 
 
 ---
