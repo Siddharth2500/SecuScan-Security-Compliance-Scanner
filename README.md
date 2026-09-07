@@ -50,7 +50,7 @@ Run from terminal:
 ```bash
 python scanner/secuscan.py --path ./project --output reports/report.json
 
----------
+------------
 
 🧪 Example Output
 {
