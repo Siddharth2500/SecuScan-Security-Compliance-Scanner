@@ -24,7 +24,7 @@ It’s built for **DevSecOps** teams who want a fast, lightweight, and CI/CD-fri
 | Reports | **JSON** | Machine-readable summary |
 | Logging | **Python Logging** | Lightweight audit tracking |
 
----------
+----------
 
 ## 🌐 Architecture
 
